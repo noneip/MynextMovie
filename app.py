@@ -10,7 +10,7 @@ from streamlit_option_menu import option_menu  # 옵션 메뉴를 위한 모듈
 
 # TMDb API 설정 (API Key와 언어 설정)
 tmdb = TMDb()
-tmdb.api_key = '98deb4107bf1a89d9aaa1ca8bec2c7fa'
+tmdb.api_key = 'Your_Api_Key'
 tmdb.language = 'ko-KR'
 movie = Movie()
 
